@@ -1,7 +1,7 @@
 <div align="center" >
 
 <div style="width: 400px; overflow: hidden;">
-  <img src="./pic1.png" style="width: 20%">
+  <img src="./pic1.png" style="width: 60%">
 </div>
 
 </div><div align="left">
